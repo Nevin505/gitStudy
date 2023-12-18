@@ -1,2 +1,2 @@
 # gitStudy
-##Welcome to the first lessons
+# # Welcome to the first lessons
